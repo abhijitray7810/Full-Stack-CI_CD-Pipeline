@@ -12,7 +12,7 @@ A production-ready **CI/CD pipeline** demonstrating end-to-end DevOps practices 
 ## 📋 Table of Contents
  
 - [Architecture Overview](#-architecture-overview)   
-- [Project Structure](#-project-structure)
+- [Project Structure](#-project-structure) 
 - [Prerequisites](#-prerequisites)  
 - [Quick Start](#-quick-start)
 - [CI/CD Pipeline](#-cicd-pipeline)
