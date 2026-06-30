@@ -4,7 +4,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)](https://www.terraform.io/)
-
+ 
 A production-ready **CI/CD pipeline** demonstrating end-to-end DevOps practices with GitHub Actions, Jenkins, Docker, Kubernetes (EKS), and Terraform.
 
 ---
