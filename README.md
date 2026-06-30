@@ -7,7 +7,7 @@
  
 A production-ready **CI/CD pipeline** demonstrating end-to-end DevOps practices with GitHub Actions, Jenkins, Docker, Kubernetes (EKS), and Terraform.
 
----
+--- 
  
 ## 📋 Table of Contents
 
