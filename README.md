@@ -18,7 +18,7 @@ A production-ready **CI/CD pipeline** demonstrating end-to-end DevOps practices 
 - [CI/CD Pipeline](#-cicd-pipeline)
 - [Docker Configuration](#-docker-configuration)
 - [Kubernetes Deployment](#-kubernetes-deployment)
-- [Terraform Infrastructure](#-terraform-infrastructure)
+- [Terraform Infrastructure](#-terraform-infrastructure) 
 - [Helm Charts](#-helm-charts)
 - [Monitoring & Observability](#-monitoring--observability)
 - [Security Best Practices](#-security-best-practices)
