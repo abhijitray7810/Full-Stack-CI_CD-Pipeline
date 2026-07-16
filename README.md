@@ -1,6 +1,6 @@
 # 🚀 CI/CD Pipeline for Full-Stack Application
 
-[![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Pipeline-blue)](https://github.com/your-org/cicd-demo-app/actions)
+[![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Pipeline-blue)](https://github.com/your-org/cicd-demo-app/actions) 
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)](https://www.terraform.io/)
