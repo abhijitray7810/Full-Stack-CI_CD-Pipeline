@@ -6,7 +6,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)](https://www.terraform.io/)
  
 A production-ready **CI/CD pipeline** demonstrating end-to-end DevOps practices with GitHub Actions, Jenkins, Docker, Kubernetes (EKS), and Terraform.
-
+ 
 ---   
  
 ## 📋 Table of Contents
